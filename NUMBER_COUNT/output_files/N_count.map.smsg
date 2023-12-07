@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at N_count.v(40): always construct contains both blocking and non-blocking assignments File: D:/FPGA/de10_Program/NUMBER_COUNT/N_count.v Line: 40
+Warning (10268): Verilog HDL information at N_count.v(52): always construct contains both blocking and non-blocking assignments File: D:/FPGA/de10_Program/NUMBER_COUNT/N_count.v Line: 52

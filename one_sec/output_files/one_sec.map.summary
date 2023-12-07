@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Thu Jun 23 00:44:27 2022
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : one_sec
+Top-level Entity Name : one_sec
+Family : MAX 10
+Total logic elements : 44
+    Total combinational functions : 44
+    Dedicated logic registers : 34
+Total registers : 34
+Total pins : 3
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

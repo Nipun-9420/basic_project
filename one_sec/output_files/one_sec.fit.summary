@@ -1,0 +1,18 @@
+Fitter Status : Successful - Thu Jun 23 00:44:43 2022
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : one_sec
+Top-level Entity Name : one_sec
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 49 / 49,760 ( < 1 % )
+    Total combinational functions : 45 / 49,760 ( < 1 % )
+    Dedicated logic registers : 34 / 49,760 ( < 1 % )
+Total registers : 34
+Total pins : 3 / 360 ( < 1 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,677,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )

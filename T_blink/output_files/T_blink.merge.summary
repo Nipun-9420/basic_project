@@ -1,0 +1,16 @@
+Partition Merge Status : Successful - Wed Jun 22 19:59:47 2022
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : T_blink
+Top-level Entity Name : T_blink
+Family : MAX 10
+Total logic elements : 648
+    Total combinational functions : 513
+    Dedicated logic registers : 436
+Total registers : 436
+Total pins : 12
+Total virtual pins : 0
+Total memory bits : 256
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

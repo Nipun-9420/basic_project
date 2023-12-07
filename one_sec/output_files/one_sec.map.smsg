@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at one_sec.v(14): always construct contains both blocking and non-blocking assignments File: D:/FPGA/de10_Program/one_sec/one_sec.v Line: 14

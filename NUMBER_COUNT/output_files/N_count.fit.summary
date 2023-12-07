@@ -1,0 +1,18 @@
+Fitter Status : Successful - Thu Jun 23 21:29:38 2022
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : N_count
+Top-level Entity Name : N_count
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 99 / 49,760 ( < 1 % )
+    Total combinational functions : 93 / 49,760 ( < 1 % )
+    Dedicated logic registers : 61 / 49,760 ( < 1 % )
+Total registers : 61
+Total pins : 43 / 360 ( 12 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,677,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )
